@@ -1,0 +1,7 @@
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Dakikayı Saate Saniyeyi Dakikaya çeviren program\bin\Debug\Dakikayı Saate Saniyeyi Dakikaya çeviren program.exe
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Dakikayı Saate Saniyeyi Dakikaya çeviren program\bin\Debug\Dakikayı Saate Saniyeyi Dakikaya çeviren program.pdb
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Dakikayı Saate Saniyeyi Dakikaya çeviren program\obj\x86\Debug\Dakikayı_Saate_Saniyeyi_Dakikaya_çeviren_program.Form1.resources
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Dakikayı Saate Saniyeyi Dakikaya çeviren program\obj\x86\Debug\Dakikayı_Saate_Saniyeyi_Dakikaya_çeviren_program.Properties.Resources.resources
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Dakikayı Saate Saniyeyi Dakikaya çeviren program\obj\x86\Debug\Dakikayı Saate Saniyeyi Dakikaya çeviren program.csproj.GenerateResource.Cache
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Dakikayı Saate Saniyeyi Dakikaya çeviren program\obj\x86\Debug\Dakikayı Saate Saniyeyi Dakikaya çeviren program.exe
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Dakikayı Saate Saniyeyi Dakikaya çeviren program\obj\x86\Debug\Dakikayı Saate Saniyeyi Dakikaya çeviren program.pdb

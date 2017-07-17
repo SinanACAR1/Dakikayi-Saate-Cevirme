@@ -1,0 +1,7 @@
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Dakikayı Saate çevirme\Dakikayı Saate çevirme\bin\Debug\Dakikayı Saate çevirme.exe
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Dakikayı Saate çevirme\Dakikayı Saate çevirme\bin\Debug\Dakikayı Saate çevirme.pdb
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Dakikayı Saate çevirme\Dakikayı Saate çevirme\obj\x86\Debug\Dakikayı_Saate_Saniyeyi_Dakikaya_çeviren_program.Form1.resources
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Dakikayı Saate çevirme\Dakikayı Saate çevirme\obj\x86\Debug\Dakikayı_Saate_Saniyeyi_Dakikaya_çeviren_program.Properties.Resources.resources
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Dakikayı Saate çevirme\Dakikayı Saate çevirme\obj\x86\Debug\Dakikayı Saate çevirme.csproj.GenerateResource.Cache
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Dakikayı Saate çevirme\Dakikayı Saate çevirme\obj\x86\Debug\Dakikayı Saate çevirme.exe
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Dakikayı Saate çevirme\Dakikayı Saate çevirme\obj\x86\Debug\Dakikayı Saate çevirme.pdb
